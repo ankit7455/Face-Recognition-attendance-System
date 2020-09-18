@@ -3,7 +3,7 @@
 """
 Created on Thu Feb 27 06:34:51 2020
 
-@author: siddhi
+
 """
 
 import cv2,os
