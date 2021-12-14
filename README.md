@@ -23,16 +23,19 @@ Use the database to generate visualization of the students’ attendance
 
 ### **Path Of The Project**
 Flowchart Represent the complete path of the Project
-
 ![flowchart](https://user-images.githubusercontent.com/43782259/145941009-67eaee47-6380-4356-bff3-6844d5a05261.png)
 
 
+## **Photoes**
+
 For Detecting the Faces 
-![smart attendance- rasberyPI](https://user-images.githubusercontent.com/43782259/145939237-ef8716db-92d7-4d3b-a326-45e31c64a9d5.png)
+<img src="https://user-images.githubusercontent.com/43782259/145939237-ef8716db-92d7-4d3b-a326-45e31c64a9d5.png" width="200" height="400" /><br/>
 Fig-1 RaspberryPi3 and action camera connected with power bank for Face Detection
+<br/>
 
-![face-dettection](https://user-images.githubusercontent.com/43782259/145939256-009b91a8-c52a-4c62-a125-1f4e8a5ee233.png)
+<img src="https://user-images.githubusercontent.com/43782259/145939256-009b91a8-c52a-4c62-a125-1f4e8a5ee233.png" /><br/>
 Fig-2 Detecting the multiple Faces at the same time
+<br/>
 
-![web-site](https://user-images.githubusercontent.com/43782259/145939326-f778a771-cd54-481c-adb5-6a87e4fe24e4.png)
-Fig-3 After marking attendance showing into webpage.
+<img src="https://user-images.githubusercontent.com/43782259/145939326-f778a771-cd54-481c-adb5-6a87e4fe24e4.png" /><br/>
+Fig-3 After marking attendance showing into webpage.<br/>
