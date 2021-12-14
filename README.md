@@ -22,7 +22,6 @@ Make the entries of detected face(s) in an Excel sheet and SQL database.
 Use the database to generate visualization of the students’ attendance
 
 ### **Path Of The Project**
-Flowchart Represent the complete path of the Project
 ![flowchart](https://user-images.githubusercontent.com/43782259/145941009-67eaee47-6380-4356-bff3-6844d5a05261.png)
 
 
